@@ -4,8 +4,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          xdddddddddddddd dev
-        </p>
+          xla meme
+    </p>
       </header>
     </div>
   );
